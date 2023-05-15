@@ -1,0 +1,12 @@
+h1{
+    width: 600px;
+    color:violet;
+    margin: 100px;
+/* width=độ rộng */
+/* margin=khoảng cách xung quanh 1 phần tử */
+
+}
+ul{
+    font-size: 15px;
+    color:yellow;
+}

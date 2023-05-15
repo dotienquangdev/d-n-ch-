@@ -1,0 +1,68 @@
+.menungang{
+    /* display:flex; */
+    /* display:flex;= chia cột  */
+    list-style:none;
+    width:900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    /* text-align: center;= căn giữa  */
+}
+.menutren{
+    background-color: rgb(52, 138, 110);
+    width:100%px;
+    height:30px;
+}
+ul.menungang li{
+    display:inline;
+}
+ul.menungang a{
+    color:white;
+    text-decoration: none;
+    font-family: segoe ui light;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding-top: 6px;
+    display:inline-block;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    transition: 0.4s;
+}
+ul.menungang a:hover{
+    background-color: rgb(173, 201, 95);
+    /* padding-top: 3px;
+    padding-bottom: 9px; */
+}
+
+
+
+
+.cottrai{
+    font-family: segoe ui light;
+    font-size: 13px;
+    width:600px;
+}
+.cottrai img{
+   width: 500px;
+}
+a.anhvatd {
+    text-decoration: none;
+    color:blue;
+    font-size: 20px;;
+}
+a.anhvatd:hover{
+    color:red;
+}
+a.anhvatd h3{
+    margin: 0; 
+    padding:0;
+}
+a.nguoi , a.lq{
+    text-decoration: nore;
+    padding-right: 10px;
+}
+span.gio{
+    text-decoration: nore;
+    padding-right: 10px;
+}

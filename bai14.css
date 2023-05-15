@@ -1,0 +1,21 @@
+.small_news_block{
+    display:flex;
+    width:700px;
+}
+.small_news_block  .left .so0{
+    width:60px;
+    height:50px;
+    margin-right:10px;
+} 
+.small_news_block  .right{
+    width:230px;
+} 
+.small_news_block .right .a.a2{
+
+}
+.small_news_block .right .a.span{
+    
+}
+.small_news_block .right .a.a3{
+    
+}

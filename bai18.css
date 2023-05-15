@@ -1,0 +1,59 @@
+ul.mot1{
+    display:flex;
+    list-style:none;
+    width:900px;
+    margin-left:auto;
+    margin-right:auto;
+    /* list-style=xóa dấu chấm */
+}
+ul.mot1 li{
+    display:inline;
+}
+.mot{
+    background-color:rgb(222, 207, 88);
+    /* background-color:màu sắc cho menu */
+    height:30px;
+    /* height=chiều cao */
+    width:100%;
+    /* width=chiều rộng */
+}
+ul.mot1 a{
+    color:red;
+    text-decoration:none;
+    font-family:'Courier New', Courier, monospace;
+    text-transform:uppercase;
+    font-size:13px;
+    display:inline-block;
+    padding-top:6px;
+    padding-right:6px;
+    padding-bottom:6px;
+    padding-left:6px;
+    transition:0.4s;
+}
+ul.mot1 a:hover{
+    background-color:rgb(119, 107, 12);
+    padding-top: 3px;
+    padding-bottom:9px;
+}
+div.hai{
+    width:500px;
+    height:150px;
+    display:flex;
+}
+.hai.so1{
+    width:200px;
+    height:150px;
+    
+}
+.hai.so2{
+    width:200px;
+
+}
+.hai.red{ 
+   width:300px;
+}
+
+.xinchao{
+    color:green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,59 @@
+.to1{
+    display:flex;
+    width:600px;
+    margin:auto;
+    justify-content: space-between;
+    color:blue;
+}
+.to1  .so1{
+    /* width:20%; */
+    width:400px;
+}
+.to1  .so2{
+width:35%;
+}
+
+.to1  .so2 .so2-1{width:95.33%}
+.to1  .so2 .so2-2{width:93.33%}
+.to1  .so2 .so2-3{width:93.33%} 
+
+.to11  .so3{
+    width:20%;
+}
+.to1  .so1 .img{
+    color:100%l;
+}
+
+/* h2.chu1{
+color:green;
+}
+h2.chu2{
+    color:red;
+} */
+div.s1  h2{
+    color:green;
+}
+div.s2  h2{
+    color:red;
+}
+.to{
+    display:flex;
+    width:700px;
+    height:186px;
+    margin-bottom: 20px;
+    /*  margin-bottom=khoảng cách giữa ảnh trên và ảnh dưới */
+  border-bottom :1px solid gray;
+  /*7 border-bottom=độ dày 1px, */
+  padding-bottom:20px;
+  /* padding=viền cách ra 1 đoạn */
+}
+.trai{
+    width:250px;
+    margin-right: 15px;
+}
+.phai{
+    width:435px;
+}
+img{
+    width:100%;
+}

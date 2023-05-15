@@ -1,0 +1,35 @@
+h1{
+    color: red;
+    /* width:500px; */
+margin-left:200px;
+font-family: segoe ui;
+}
+h2{
+color:green;
+width:400px;
+margin-left: 650px;
+/* margin-left:độ rộng từ trái sang */
+}
+h4{
+    width:400px;
+    margin-left: 500px;
+    font-family:segoe ui;
+    /* font nét chữ  */
+}
+ul{
+    margin-left:300px;
+    font-size: 50px;
+}
+one{
+    display: flex;
+    width:100px;
+
+}
+one.one1{
+    width:200px;
+    margin-right:20px ;
+}
+one.one2{
+    width:180px;
+    color:green;
+}

@@ -1,0 +1,66 @@
+ div.a{
+    display:flex;
+    width:600px;
+}
+ịmg.a1{
+    width:190px;
+    margin-right: 10px;
+    height:250px;
+    margin-bottom: 10px; 
+}
+img.a2{
+    width:400px;
+    
+    margin-right: 10px;
+    height:250px;
+}
+div.to{
+    display:flex;
+     display:flex; chia đôi cột  
+    width:500px;
+    height:186px;
+}
+.trai{
+    width:200px;
+    margin-right: 15px;;
+}
+.phai{
+    width:435px;
+
+}
+trai.trai1{
+    width:250px;
+}
+div.nho{
+    display: flex;
+    margin-right: 10px;
+    width: 600px;
+}
+.nho1{
+    width: 200px;
+    margin-right: 10px;
+}  
+.nho2{
+    width:390px;
+}
+.quang{
+    display:flex;
+    /* width:700px; */
+    justify-content: space-between;
+    margin: auto; 
+}
+.quang.quang1{
+    width:30%;
+}
+
+.quang.quang2{
+    width:33%;
+    display:flex;
+}
+
+.quang.quang3{ 
+    width:33%; 
+}
+
+.quang.quang2.quang21{ width:49%; }
+.quang.quang2.quang22{ width:49%; }

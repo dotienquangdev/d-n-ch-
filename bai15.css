@@ -1,0 +1,5 @@
+/* display:block;=để xuống dòng */
+ul.danhsach{
+     list-style:none;
+    display:flex;
+}

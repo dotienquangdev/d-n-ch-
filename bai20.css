@@ -1,0 +1,236 @@
+.phan1 {
+    /* display:flex; */
+    list-style: none;
+    /* width:900px; */
+    margin-left: auto;
+    /* list-style: none; */
+    margin-right: auto;
+    text-align: center;
+}
+
+.phan1{
+    background-color: rgb(79, 4, 4);
+    width:100%;
+    height:30px;
+}
+
+ul.anho li{
+    display:inline;
+}
+/*  */
+
+/* .phanthan1 {
+    display: flex;
+    width:1320px;
+    /* display:block; 
+} */
+/*  */
+
+ul.anho a{
+    color:white;
+    text-decoration: none;
+    font-family: segoe ui light;
+    text-transform: uppercase;
+    font-size: 10px;
+    padding-top: 6px;
+    display:inline-block;
+    padding-left: 6px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    transition: 0.4s;
+}
+ul.anho a:hover{
+    background-color: rgb(193, 25, 37);
+    padding-top: 3px;
+    padding-bottom: 9px;
+}
+/*  */
+.bmotnho{
+    display:flex;
+    width:800px;
+    justify-content:space-between ;
+}
+
+.bmotnho img{
+    width:250px;
+}
+.bmotnho{
+    width:250px;
+}
+.bmotnho{
+    width:250px;
+}
+.phanthan1{
+    
+}
+.phanB{
+    font-size: 13px;
+    font-family: segoe ui light ;
+    width:600px;
+}
+.bmotnho1{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.bmotnho2{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.bmotnho3{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+/*  */
+.bmotnho1a {
+    padding-right: 5px;
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+.bmotnho1b {
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bmotnho2a{
+    padding-right: 5px;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+.bmotnho2b{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bmotnho3a{
+    padding-right: 5px;
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+.bmotnho3b{
+    color:blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*  */
+.bmotnho1:hover{
+    text-decoration-line: none;
+    color:green;
+    font-size: 15px;
+    width:255px;
+}
+.bmotnho2:hover{
+    text-decoration-line: none;
+    color:red;
+    font-size: 15px;
+    width:255px;
+}
+.bmotnho3:hover{
+    text-decoration-line: none;
+    color:rgb(189, 212, 40);
+    font-size: 15px;
+    width:255px;
+}
+/*  */
+.phanC{
+    display:flex;
+    width:235px; 
+    /* width:500px; */
+}
+.cmotnho{
+    width:220px;
+    justify-content:space-between ;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.cmotnho img {
+    width:220px;
+    padding-right: 5px;
+    padding-left: 5px;
+   
+}  
+ /* justify-content:space-between ; = khảng cách tự động giữa 2 cột*/
+/* .cmotnhob{
+    width:220px;
+}
+.cmotnhod{
+    width:200px;
+}
+.cmotnhoc a{
+    width:200px;
+} */
+.cmotnhob{
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.cmotnhoc{
+    color:rgb(13, 0, 255);
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cmotnhoa:hover{
+    width:222px;
+    color:rgb(23, 160, 132);
+    /* justify-content:space-between */
+}
+.cmotnhod:hover{
+    color:green;
+}
+.cmotnho:hover{
+    color:rgb(23, 160, 132);
+}
+.cmotnhob:hover{
+    color:rgb(23, 160, 132);
+}
+.cmotnhoc:hover{
+    color:rgb(23, 160, 132);
+}
+
+
+.duoi {
+    width:800px;
+    display:flex;
+    flex-wrap:wrap;
+    margin-left:20px;
+}
+.duoi a.khoinho{ 
+    width:200px;
+    display:flex;
+    height:30px;
+    color:green;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    text-decoration: none;
+}
+img.trai{
+    width:19px;
+    height:19px;
+
+}
+.duoi a.khoinho .phai{
+    width:170px;
+}
+.duoi a.khoinho:hover{ 
+    color:red;    
+}
+/*    */
+
+.tren{
+    width:800px;
+    display:flex;
+    flex-wrap:wrap;
+    margin-left:20px;
+    text-decoration: none;
+}
+._12cota{
+    width:23px;
+    text-decoration: none;
+}
+._12cot._12cotb{
+    width:23px;
+    text-decoration: none;
+}

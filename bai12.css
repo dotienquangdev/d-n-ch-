@@ -1,0 +1,64 @@
+h1{
+    margin-right:10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family=hộ phhoong chữ */
+}
+   
+img.one{
+    width:250px;
+    margin-right:10px;
+    height:150px;
+    /* width=chiều rộng */
+    /* height=chiều cao */
+    /* margin-right=lề phải */
+    /* link=liên kết */
+}
+img.tow{
+    width:250px;
+    height:150px;
+    /* width=chiều rộng */
+    /* height=chiều cao */
+}
+p.three{
+    width:1000px;
+    margin-right:10px;
+    /* color=màu sắc */
+}
+div.hai{
+    display:flex;
+    width:1000px;
+    height:186px;
+    margin-right:10px;
+    /* display=chưng bày = chia cột */
+    /* display=chưng bày=chia cột */
+    /* width=chiều rộng */
+    /* height=chiều cao */
+
+}
+.hai  .so1{
+    width:400px;
+    margin-right:10px;
+    margin-left:10px;;
+    /* width=chiều rộng */
+    /* width=độ rộng rộng */
+    /* font-famili=phông chữ */
+}
+.hai .so2{
+    width:300px;
+    margin-right:10px;
+    /* margin-right=lề phải */
+}
+.hai .so3{
+  width:250px;
+}
+.hai .so4{
+    width:300px;
+}
+img.for{
+    width:100%;
+    /* margin-right=lầ phải */
+}
+.maudo{
+    color:red;
+    font-size: 50px;;
+}

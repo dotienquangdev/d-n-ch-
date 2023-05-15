@@ -1,0 +1,16 @@
+
+public class hoten {
+public static void main(String [] args) {
+	String tensach = "lap trinh java";
+	int namxuatban = 2023;
+	double giatien = 15.5;
+	boolean consach = true;
+	char makho = 'm';
+	System.out.println("ten sach:"+ tensach);
+	System.out.println("nam:" + namxuatban);
+	System.out.println("gia tien:"+ giatien);
+	System.out.println("con sach:"+ consach);
+	System.out.println("ma kho:"+ makho);
+
+}
+}

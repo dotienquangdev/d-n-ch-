@@ -1,0 +1,48 @@
+h1{
+    color:red;
+    width: 500px;
+    /* width-đỗ rộng của trang */
+     margin-left: 100px; 
+     /* margin-left+=dịch sang bên trái */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* chỉnh phông chữ */
+}
+h2{
+    width: 500px;
+    color:green;
+   
+}
+ul{
+    margin-left: 50px;
+    color: blue;
+    font-size: 15px;
+    font-family: segoe ui ;
+    width: 500px;
+}
+hr{
+    width:500px;
+    margin-left:600px;
+}
+p{
+    width:500px;
+    margin-left:120px;
+}
+hr.a{
+    width:500px;
+}
+div.so1{
+    display:flex;
+    width:500px;
+}
+ img.con1{
+width:500px;
+margin-right:10px;
+height:150px;
+}
+img.con2{
+    width:500px;
+    height:150px;
+}
+img.con0{
+    width:500px;
+}

@@ -1,0 +1,65 @@
+ul.menungang{
+    /* display:flex; */
+    /* display:flex;=chia cột */
+    list-style: none;
+    width:900px;
+    margin-left:auto;
+    /* căn trái */
+    margin-right:auto;
+    /* margin-right=căn phải */
+    
+}
+ul.menungang li {
+    display:inline;
+}
+.menutren{
+    background-color: rgb(11, 109, 109);
+    /* background-color= màu nền */
+    height:30px;
+    /* height=chiều cao */
+    width:100%;
+    /* width=chiều rộng */
+}
+ul.menungang a{
+    color:white;
+    /* color=màu sắc */
+    text-decoration: none;
+    font-family:segoe ui light;
+    /* font-family=phông chữ */
+    text-transform: uppercase;
+    /* text-transform:uppercase=in chữ hoa */
+    font-size:13px;
+    /* font-size=phông chữ */
+    display:inline-block;
+    /* display-block= xuống dòng */
+    padding-top:6px;
+    /* top=đúng đầu */
+    padding-right:6px;
+    /* right=phải */
+    padding-bottom:6px;
+    /* bottom=dưới */
+    padding-left:6px;
+    /* left=trái */
+    transition:0.3s;
+    /* transition=chuyển tiếp cho nó mượt hơn */
+}
+ul.menungang a:hover{
+    /* a:hover=đưa chuột vào thẻ a thì nó đậm hơn */
+    background-color: rgb(5, 64, 64);
+    /* padding-top:3px;
+    padding-bottom:9px; */
+}
+.xinchao3{
+    color:orange;
+}
+
+.xinchao1{
+    color:blue;
+}
+.xinchao{
+    color:red;
+}
+
+.rin{
+    color:green;
+}
